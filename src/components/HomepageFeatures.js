@@ -4,51 +4,86 @@ import styles from "./HomepageFeatures.module.css";
 
 const FeatureList = [
     {
-        title: "Automate complex and repetitive tasks in Trello",
-        image: "/img/automate.png",
+        title: "PFPs",
+        image: "/img/sd-pfp.png",
         description: (
             <>
-                When you need to streamline your workflow with someting Trello
-                doesn't do out of the box, use Shadowdog.
+                The PFPs are NFTs on the Ethereum blockchain. Purchasing one
+                makes you part of the small Shadowdog community. There'll be
+                merch and also early access to the Scenes collections as they're
+                released.
             </>
         ),
+        link: "https://opensea.io/",
     },
     {
-        title: "Seamlessly integrate other softwares into your Trello board",
-        image: "/img/integrate.png",
+        title: "Shadowdog and the Dancing Robot",
+        image: "/img/sd-dancing-robot.png",
         description: (
             <>
-                Instead of switching between systems, manage everything from
-                your Trello board. Integrate your email, CRM or fullfillment
-                system directly into your workflow.
+                COMING SOON: Shadowdog and the Dancing Robot was the first story
+                I drew, but not the first one I wrote. As I write new Shadowdog
+                stories, I'll be releasing each frame of the new story as an
+                NFT. Purchasing a frame makes you, potentially, an official
+                co-owner of the story. We just have to have some communication,
+                or use some identification service.
             </>
         ),
+        link: "",
     },
     {
-        title: "No hard limits or caps",
-        image: "/img/no-limits.png",
+        title: "Static",
+        image: "/img/sd-static.png",
         description: (
             <>
-                The Free plan is fine for most people trying out Shadowdog, and
-                the Standard plan is all most people ever need. Beyond that, you
-                can upgrade or buy extra time if your usage spikes.
+                COMING NEXT: "Static" is the most recent Shadowdog story. NFTs
+                will come soon. In the meantime, you can see it on Instagram.
+                Start here and go left into the future (I posted a frame every
+                day).
             </>
         ),
+        link: "",
     },
 ];
 
-function Feature({ image, title, description }) {
-    return (
-        <div className={clsx("col col--4")}>
-            <div className="text--center">
-                <img className={styles.featureImage} alt={title} src={image} />
+function Feature({ image, title, description, link }) {
+    if (link !== "") {
+        return (
+            <div className={clsx("col col--4")}>
+                <div className="text--center">
+                    <a href={link}>
+                        <img
+                            className={styles.featureImage}
+                            alt={title}
+                            src={image}
+                        />
+                    </a>
+                </div>
+                <div className="text--center padding-horiz--md">
+                    <h3>
+                        <a href={link}>{title}</a>
+                    </h3>
+                    <p>{description}</p>
+                </div>
             </div>
-            <div className="text--center padding-horiz--md">
-                <h3>{title}</h3>
-                <p>{description}</p>
+        );
+    } else {
+        return (
+            <div className={clsx("col col--4")}>
+                <div className="text--center">
+                    <img
+                        className={styles.featureImage}
+                        alt={title}
+                        src={image}
+                    />
+                </div>
+                <div className="text--center padding-horiz--md">
+                    <h3>{title}</h3>
+                    <p>{description}</p>
+                </div>
             </div>
-        </div>
-    );
+        );
+    }
 }
 
 export default function HomepageFeatures() {

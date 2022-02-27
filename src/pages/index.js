@@ -7,14 +7,18 @@ import styles from "./index.module.css";
 import HomepageFeatures from "../components/HomepageFeatures";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 
-<img />;
-
 function HomepageHeader() {
     const { siteConfig } = useDocusaurusContext();
     return (
-        <header className={clsx("hero hero--primary", styles.heroBanner)}>
+        <header
+            className={clsx(
+                "hero hero--primary",
+                styles.heroBanner,
+                "heroBanner-background"
+            )}
+        >
             <div className="container">
-                <img src={useBaseUrl("/img/sd_banner.png")} alt="" />
+                <h1 class="hero__title heroBanner-container-h1">Shadowdog</h1>
             </div>
         </header>
     );
@@ -24,7 +28,7 @@ export default function Home() {
     const { siteConfig } = useDocusaurusContext();
     return (
         <Layout
-            title={`Hello from ${siteConfig.title}`}
+            title={`${siteConfig.title}`}
             description="The stand-alone automation tool for creating powerful workflows in Trello"
         >
             <HomepageHeader />

@@ -43,7 +43,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                     anonymizeIP: true, // Should IPs be anonymized?
                 },
                 navbar: {
-                    title: "Shadowdog",
+                    title: "",
                     logo: {
                         alt: "Shadowdog Logo",
                         src: "img/icon58x58.png",
@@ -54,8 +54,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                         { to: "/roadmap", label: "Roadmap", position: "left" },
                         { to: "/blog", label: "Blog", position: "left" },
                         {
-                            href: "https://shadowdog.world",
-                            label: "Shadowdog",
+                            href: "https://opensea.io/",
+                            label: "OpenSea.io",
                             position: "right",
                         },
                     ],
@@ -64,11 +64,22 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                     style: "dark",
                     links: [
                         {
-                            title: "Community",
+                            title: "Pages",
                             items: [
                                 {
-                                    label: "Trello",
-                                    href: "https://trello.com/b/IoHmhz5c/shadowdog-community-board",
+                                    to: "/about",
+                                    label: "About",
+                                    position: "left",
+                                },
+                                {
+                                    to: "/history",
+                                    label: "History",
+                                    position: "left",
+                                },
+                                {
+                                    to: "/roadmap",
+                                    label: "Roadmap",
+                                    position: "left",
                                 },
                             ],
                         },
@@ -80,13 +91,17 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                                     to: "/blog",
                                 },
                                 {
-                                    label: "Shadowdog",
-                                    href: "https://shadowdog.world",
+                                    label: "Twitter",
+                                    href: "https://twitter.com/5h4d0wd06",
+                                },
+                                {
+                                    label: "Instagram",
+                                    href: "https://www.instagram.com/5h4d0wd06/",
                                 },
                             ],
                         },
                     ],
-                    copyright: `Copyright © ${new Date().getFullYear()} BenkoWorks`,
+                    copyright: `Copyright © ${new Date().getFullYear()} Kynan Hughes`,
                 },
                 prism: {
                     theme: lightCodeTheme,
