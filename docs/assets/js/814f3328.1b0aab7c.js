@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshadowdog_world=self.webpackChunkshadowdog_world||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Quota Increase for Free Plan","permalink":"/blog/free-plan-quota-increase"},{"title":"Welcome","permalink":"/blog/welcome"}]}')}}]);
