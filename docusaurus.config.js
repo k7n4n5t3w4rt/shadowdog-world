@@ -101,7 +101,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                             ],
                         },
                     ],
-                    copyright: `Copyright © ${new Date().getFullYear()} Kynan Hughes`,
+                    copyright: `Copyright © ${new Date().getFullYear()} Shadowdog`,
                 },
                 prism: {
                     theme: lightCodeTheme,
