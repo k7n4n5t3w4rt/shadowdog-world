@@ -18,7 +18,9 @@ function HomepageHeader() {
             )}
         >
             <div className="container">
-                <h1 class="hero__title heroBanner-container-h1">Shadowdog</h1>
+                <h1 className="hero__title heroBanner-container-h1">
+                    Shadowdog
+                </h1>
             </div>
         </header>
     );

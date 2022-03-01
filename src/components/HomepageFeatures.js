@@ -9,63 +9,67 @@ export default function HomepageFeatures() {
                 <div className="row">
                     <div className={clsx("col col--4")}>
                         <div className="text--center">
-                            <a href="https://opensea.io/">
+                            <img
+                                className={styles.featureImagePFP}
+                                alt="10000 PFPs"
+                                src="/img/sd-pfp.png"
+                            />
+                        </div>
+                        <div className="text--center padding-horiz--md">
+                            <h3>10000 SD PFPs</h3>
+                            <p>
+                                COMING SOON: I've been learning about NFTs and
+                                plan to release a Shadowdog token. It isn't an
+                                NFT scam. I just wanted to generate a bunch of
+                                tokens because I think it's an interesting kind
+                                of art. There's heaps of them and they will
+                                always be an affordable way to show your
+                                support. Buying the token will keep me drawing
+                                new stories and give you a unique and special
+                                profile pic. There will be much utility. I'm not
+                                sure what yet. I plan to make some merch, so
+                                there's that. Basically anything I do that's
+                                Shadowdog related will probably use the token in
+                                some way. It's the future.
+                            </p>
+                        </div>
+                    </div>
+                    <div className={clsx("col col--4")}>
+                        <div className="text--center">
+                            <a href="/stories/dancing-robot/">
                                 <img
-                                    className={styles.featureImagePFP}
-                                    alt="10000 PFPs"
-                                    src="/img/sd-pfp.png"
+                                    className={styles.featureImage}
+                                    alt="Shadowdog and the Dancing Robot"
+                                    src="/img/sd-dancing-robot.png"
                                 />
                             </a>
                         </div>
                         <div className="text--center padding-horiz--md">
-                            <h3>10000 PFPs</h3>
+                            <h3>#1 Shadowdog and the Dancing Robot</h3>
                             <p>
-                                The PFPs are NFTs on the Ethereum blockchain.
-                                Purchasing one makes you part of the small
-                                Shadowdog community. There'll be merch and also
-                                early access to the Scenes collections as
-                                they're released.
+                                Shadowdog is on the run. He has a new toy - a
+                                wonderful dancing robot. But is everything as it
+                                seems? His friend seems to know something
+                                Shadowdog doesn't...
                             </p>
                         </div>
                     </div>
                     <div className={clsx("col col--4")}>
                         <div className="text--center">
-                            <img
-                                className={styles.featureImage}
-                                alt="Shadowdog and the Dancing Robot"
-                                src="/img/sd-dancing-robot.png"
-                            />
+                            <a href="/stories/static/">
+                                <img
+                                    className={styles.featureImage}
+                                    alt="Static"
+                                    src="/img/sd-static.png"
+                                />
+                            </a>
                         </div>
                         <div className="text--center padding-horiz--md">
-                            <h3>Shadowdog and the Dancing Robot</h3>
+                            <h3>#2 Static</h3>
                             <p>
-                                COMING SOON: Shadowdog and the Dancing Robot was
-                                the first story I drew, but not the first one I
-                                wrote. As I write new Shadowdog stories, I'll be
-                                releasing each frame of the new story as an NFT.
-                                Purchasing a frame makes you, potentially, an
-                                official co-owner of the story. We just have to
-                                have some communication, or use some
-                                identification service.
-                            </p>
-                        </div>
-                    </div>
-                    <div className={clsx("col col--4")}>
-                        <div className="text--center">
-                            <img
-                                className={styles.featureImage}
-                                alt="Static"
-                                src="/img/sd-static.png"
-                            />
-                        </div>
-                        <div className="text--center padding-horiz--md">
-                            <h3>Static</h3>
-                            <p>
-                                COMING NEXT: "Static" is the most recent
-                                Shadowdog story. NFTs will come soon. In the
-                                meantime, you can see it on Instagram. Start
-                                here and go left into the future (I posted a
-                                frame every day).
+                                The boy comes home one day to find a very nasty
+                                surprise. An univited visitor had decided to
+                                re-arrange the furniture.
                             </p>
                         </div>
                     </div>

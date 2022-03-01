@@ -50,7 +50,22 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                     },
                     items: [
                         { to: "/about", label: "About", position: "left" },
-                        { to: "/history", label: "History", position: "left" },
+                        {
+                            type: "dropdown",
+                            label: "Stories",
+                            position: "left",
+                            items: [
+                                {
+                                    to: "/stories/dancing-robot",
+                                    label: "Dancing Robot",
+                                },
+                                {
+                                    to: "/stories/static",
+                                    label: "Static",
+                                },
+                                // ... more items
+                            ],
+                        },
                         { to: "/roadmap", label: "Roadmap", position: "left" },
                         { to: "/blog", label: "Blog", position: "left" },
                         {
@@ -72,8 +87,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                                     position: "left",
                                 },
                                 {
-                                    to: "/history",
-                                    label: "History",
+                                    to: "/stories",
+                                    label: "Stories",
                                     position: "left",
                                 },
                                 {
