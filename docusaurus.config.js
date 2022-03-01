@@ -46,7 +46,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                     title: "",
                     logo: {
                         alt: "Shadowdog Logo",
-                        src: "img/icon58x58.png",
+                        src: "img/icon80x80.png",
                     },
                     items: [
                         { to: "/about", label: "About", position: "left" },
@@ -68,11 +68,11 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                         },
                         { to: "/roadmap", label: "Roadmap", position: "left" },
                         { to: "/blog", label: "Blog", position: "left" },
-                        {
-                            href: "https://opensea.io/",
-                            label: "OpenSea.io",
-                            position: "right",
-                        },
+                        // {
+                        //     href: "https://opensea.io/",
+                        //     label: "OpenSea.io",
+                        //     position: "right",
+                        // },
                     ],
                 },
                 footer: {
@@ -87,8 +87,13 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                                     position: "left",
                                 },
                                 {
-                                    to: "/stories",
-                                    label: "Stories",
+                                    to: "/stories/dancing-robot",
+                                    label: "Stories / Dancing Robot",
+                                    position: "left",
+                                },
+                                {
+                                    to: "/stories/static",
+                                    label: "Stories / Static",
                                     position: "left",
                                 },
                                 {
@@ -96,15 +101,15 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                                     label: "Roadmap",
                                     position: "left",
                                 },
-                            ],
-                        },
-                        {
-                            title: "More",
-                            items: [
                                 {
                                     label: "Blog",
                                     to: "/blog",
                                 },
+                            ],
+                        },
+                        {
+                            title: "Community",
+                            items: [
                                 {
                                     label: "Twitter",
                                     href: "https://twitter.com/5h4d0wd06",
@@ -116,6 +121,11 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                             ],
                         },
                     ],
+                    logo: {
+                        alt: "Shadowdog",
+                        src: "/img/icon80x80.png",
+                        href: "https://shadowdog.world",
+                    },
                     copyright: `Copyright © ${new Date().getFullYear()} Shadowdog`,
                 },
                 prism: {
