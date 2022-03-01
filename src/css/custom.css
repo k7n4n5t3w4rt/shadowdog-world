@@ -32,11 +32,12 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    background-color: white;
 }
 
 .heroBanner-container-h1 {
     text-shadow: 4px 4px 5px #444;
     -webkit-text-stroke: 0.5px black;
-    font-size: 10vw;
+    font-size: 15vw;
     color: white;
 }
