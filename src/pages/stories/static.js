@@ -18,7 +18,7 @@ export default function Static() {
     const { siteConfig } = useDocusaurusContext();
     return (
         <Layout
-            title={`{siteConfig.title} | Stories | Shadowdog and the Dancing Robot`}
+            title={`${siteConfig.title} | Stories | Shadowdog and the Dancing Robot`}
             description="A Shadowdog story."
         >
             <main className="container container--fluid margin-vert--lg">

@@ -9,20 +9,22 @@ export default function HomepageFeatures() {
                 <div className="row">
                     <div className={clsx("col col--4")}>
                         <div className="text--center">
-                            <img
-                                className={styles.featureImagePFP}
-                                alt="10000 PFPs"
-                                src="/img/sd-pfp.png"
-                            />
+                            <a href="/roadmap/">
+                                <img
+                                    className={styles.featureImagePFP}
+                                    alt="10000 PFPs"
+                                    src="/img/sd-pfp.png"
+                                />
+                            </a>
                         </div>
                         <div className="text--center padding-horiz--md">
-                            <h3>10000 SD PFPs</h3>
+                            <h3>10000 SD Tokens</h3>
                             <p>
                                 COMING SOON: I've been learning about NFTs and
                                 plan to release a Shadowdog token. It isn't an
-                                NFT scam. I just wanted to generate a bunch of
-                                tokens because I think it's an interesting kind
-                                of art.
+                                NFT scam. I want to generate a bunch of tokens
+                                because I think they will be beautiful in an
+                                interesting kind of way.
                             </p>
                         </div>
                     </div>
@@ -59,9 +61,11 @@ export default function HomepageFeatures() {
                         <div className="text--center padding-horiz--md">
                             <h3>#2 Static</h3>
                             <p>
-                                The boy comes home one day to find a very nasty
-                                surprise. An univited visitor had decided to
-                                re-arrange the furniture.
+                                This is a story from before Shadowdog and
+                                Oysterboy met. Oysterboy comes home one day to
+                                find a strange dog in the hallway and very nasty
+                                surprise in his apartment. An univited visitor
+                                has left a mess.
                             </p>
                         </div>
                     </div>
