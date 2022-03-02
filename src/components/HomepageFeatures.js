@@ -63,9 +63,9 @@ export default function HomepageFeatures() {
                             <p>
                                 This is a story from before Shadowdog and
                                 Oysterboy met. Oysterboy comes home one day to
-                                find a strange dog in the hallway and very nasty
-                                surprise in his apartment. An univited visitor
-                                has left a mess.
+                                find a strange dog in the hallway and a very
+                                nasty surprise in his apartment. An univited
+                                visitor has left a mess.
                             </p>
                         </div>
                     </div>
