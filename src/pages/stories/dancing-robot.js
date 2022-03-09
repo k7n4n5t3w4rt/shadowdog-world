@@ -23,7 +23,7 @@ export default function DancingRobot() {
         >
             <main className="container container--fluid margin-vert--lg">
                 <div className="row mdxPageWrapper_3qD3">
-                    <div className="col">
+                    <div className={"col " + styles.storyImageContainer}>
                         {shotList.map((props, idx) => (
                             <Shot key={idx} {...props} />
                         ))}
@@ -35,6 +35,10 @@ export default function DancingRobot() {
 }
 
 const shotList = [
+    {
+        title: "",
+        image: "___",
+    },
     {
         title: "",
         image: "001",
@@ -457,6 +461,6 @@ const shotList = [
     },
     {
         title: "",
-        image: "106",
+        image: "zzz",
     },
 ];

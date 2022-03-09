@@ -10,8 +10,16 @@
     overflow: hidden;
 }
 
+.storyImageContainer {
+    line-height: 1em;
+}
+
 .storyImage {
     width: 400px;
+    outline: 1px solid black;
+    margin: 0;
+    margin-right: 20px;
+    margin-bottom: 20px;
 }
 
 @media screen and (max-width: 1200px) {
