@@ -18,11 +18,12 @@ This command starts a local development server and opens up a browser window. Mo
 
 ### Deployment
 
-Because we're using GitLab we just push on the `master` branch. All the deployment to GitLab Pages is in the `/.gitlab_ci.yml`.
+Because we're using GitHub we just push on the `main` branch.
 
-The `deploy` script just builds for GitLab Pages and pushes on the `master branch`.
+This build static files to the `/docs` directory and GitHub pages serves them up.
 
 ```
-npm run deploy
+npm run build
 ```
+
 # shadowdog-world
