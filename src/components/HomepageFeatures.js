@@ -9,27 +9,6 @@ export default function HomepageFeatures() {
                 <div className="row">
                     <div className={clsx("col col--4")}>
                         <div className="text--center">
-                            <a href="/roadmap/">
-                                <img
-                                    className={styles.featureImagePFP}
-                                    alt="10000 PFPs"
-                                    src="/img/sd-pfp.png"
-                                />
-                            </a>
-                        </div>
-                        <div className="text--center padding-horiz--md">
-                            <h3>10000 SD Tokens</h3>
-                            <p>
-                                COMING SOON: I've been learning about NFTs and
-                                plan to release a Shadowdog token. It isn't an
-                                NFT scam. I want to generate a bunch of tokens
-                                because I think they will be beautiful in an
-                                interesting kind of way.
-                            </p>
-                        </div>
-                    </div>
-                    <div className={clsx("col col--4")}>
-                        <div className="text--center">
                             <a href="/stories/dancing-robot/">
                                 <img
                                     className={styles.featureImage}
@@ -66,6 +45,27 @@ export default function HomepageFeatures() {
                                 find a strange dog in the hallway and a very
                                 nasty surprise in his apartment. An univited
                                 visitor has left a mess.
+                            </p>
+                        </div>
+                    </div>
+                    <div className={clsx("col col--4")}>
+                        <div className="text--center">
+                            <a href="/roadmap/">
+                                <img
+                                    className={styles.featureImagePFP}
+                                    alt="10000 PFPs"
+                                    src="/img/sd-pfp.png"
+                                />
+                            </a>
+                        </div>
+                        <div className="text--center padding-horiz--md">
+                            <h3>SD Tokens</h3>
+                            <p>
+                                COMING SOON: I've been learning about NFTs and
+                                plan to release a Shadowdog token. It isn't an
+                                NFT scam. I want to generate a bunch of tokens
+                                because I think they will be beautiful in an
+                                interesting kind of way.
                             </p>
                         </div>
                     </div>
