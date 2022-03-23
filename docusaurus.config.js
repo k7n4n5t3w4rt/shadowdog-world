@@ -97,11 +97,6 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                                     position: "left",
                                 },
                                 {
-                                    to: "/roadmap",
-                                    label: "Roadmap",
-                                    position: "left",
-                                },
-                                {
                                     label: "Blog",
                                     to: "/blog",
                                 },

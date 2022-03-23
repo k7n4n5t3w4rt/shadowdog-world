@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshadowdog_world=self.webpackChunkshadowdog_world||[]).push([[2837],{7839:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/static","name":"static","count":79,"permalink":"/blog/tags/static"}')}}]);

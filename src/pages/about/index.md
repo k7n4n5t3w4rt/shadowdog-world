@@ -4,14 +4,14 @@ title: About
 
 # About Shadowdog
 
-What is it all about? I started drawing Shadowdog stories one frame a day on [Instagram](https://www.instagram.com/5h4d0wd06/) when I was out of work and locked down in 2020 due to COVID. I've been drawing and imagining Shadowdog, and his pal Oysterboy, for years. My brother, Tim, and I made up a whole bunch of stories once, but then life got in the way and we never did anything with them, but they're still there.
+I started drawing Shadowdog stories one frame a day on [Instagram](https://www.instagram.com/5h4d0wd06/) when I was out of work and locked down in 2020 due to COVID. I've been drawing and imagining Shadowdog, and his pal Oysterboy, for years. My brother, Tim, and I made up a whole bunch of stories once, but then life got in the way.
 
-## Shadowdog DAO
+When there's a new story in progress, I'm dong a frame a day. I learned about [Song A Day](https://songaday.world/) by Jonathan Mann. Instead of Patreon or whatever, I'm planning to make each frame of each story into an NFT. The idea is that buying a frame will give you a share in the ownership - the actual IP - of that story. When I draw an animated version, that will be a derivative product and any proceeds from it will flow back to the owners. It's blockchain and smart contracts all the way down. The way of the future.
 
-It seems weird to be saying this because I've been imagining Shadowdog by myself for so long and I'm basically an introvert, but if Shadowdog is anything more than just my drawings, then it is a community. It takes a bunch of people with all sorts of skills and diversity to make something good. The characters and the stories are just the raw material.
+Anyone will be able to propose derivative products. Let's say Netflix want to make a Shadowdog series. That would be a derivative product and all the owners of all the stories will get a chance to endorse it and share in the profits.
 
-I'm influenced by [Song A Day](https://songaday.world/) by Jonathan Mann. If he can do it with songs, I can do it with Shadowdog. That's the theory.
+It takes a bunch of people with all sorts of skills and diversity of thinking to make something good these days. The characters and the stories are just the raw material. If Shadowdog is going to be anything more than just my drawings, then it will have to be a community.
 
-What do you want Shadowdog to be? Products? What kinds of products? A social enterprise? Should we animate the stories? That's what I imagine. I see them in 3D. What about a game? What about lots of games? Are you a musician? What does Shadowdog sound like?
+What do you want Shadowdog to be? Should there be a zine? Products? Want to put your frame on a T-shirt and sell it? A social enterprise? Should we animate the stories? I see them in 3D. What about a game? What about lots of games? Collaborations with musicians?
 
-Let's make everything we do into an artifact on a blockchain and have royalties from sales and derrivative work flowing back into the DAO. You become part of the DAO when you buy a token. Maybe different kinds of tokens bestow different powers. It's a work in progress. [Let me know what you think](https://discord.gg/EzDTZUQq8T).
+[Let me know what you think](https://discord.gg/EzDTZUQq8T).

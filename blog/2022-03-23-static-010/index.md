@@ -1,0 +1,8 @@
+---
+slug: static-010
+title: "Static #10"
+authors: [kynan]
+tags: [static]
+---
+
+![Example banner](/img/stories/static/010.PNG)
