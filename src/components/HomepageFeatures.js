@@ -59,8 +59,8 @@ export default function HomepageFeatures() {
                             </a>
                         </div>
                         <div className="text--center padding-horiz--md">
-                            <h3>Shadow</h3>
-                            <p>COMING SOON: A new story...</p>
+                            <h3>#3 Shadowdog's Shadow</h3>
+                            <p>COMING SOON...</p>
                         </div>
                     </div>
                 </div>
