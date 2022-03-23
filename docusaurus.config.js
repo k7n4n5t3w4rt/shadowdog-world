@@ -38,7 +38,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
             /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
             ({
                 googleAnalytics: {
-                    trackingID: "UA-209088124-1",
+                    trackingID: "G-P6YVV4WRX6",
                     // Optional fields.
                     anonymizeIP: true, // Should IPs be anonymized?
                 },
@@ -66,7 +66,6 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                                 // ... more items
                             ],
                         },
-                        { to: "/roadmap", label: "Roadmap", position: "left" },
                         { to: "/blog", label: "Blog", position: "left" },
                         // {
                         //     href: "https://opensea.io/",
