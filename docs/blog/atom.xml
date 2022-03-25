@@ -19,9 +19,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #0]]></title>
-        <id>static-000</id>
-        <link href="https://shadowdog.world/blog/static-000"/>
+        <title type="html"><![CDATA[Static #3]]></title>
+        <id>static-003</id>
+        <link href="https://shadowdog.world/blog/static-003"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -41,9 +41,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #3]]></title>
-        <id>static-003</id>
-        <link href="https://shadowdog.world/blog/static-003"/>
+        <title type="html"><![CDATA[Static #0]]></title>
+        <id>static-000</id>
+        <link href="https://shadowdog.world/blog/static-000"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -74,20 +74,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #7]]></title>
-        <id>static-007</id>
-        <link href="https://shadowdog.world/blog/static-007"/>
-        <updated>2022-03-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Example banner]]></summary>
-        <author>
-            <name>Kynan</name>
-            <uri>https:/brokenbaysoftware.co/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Static #6]]></title>
-        <id>static-006</id>
-        <link href="https://shadowdog.world/blog/static-006"/>
+        <title type="html"><![CDATA[Static #9]]></title>
+        <id>static-009</id>
+        <link href="https://shadowdog.world/blog/static-009"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -107,9 +96,20 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #9]]></title>
-        <id>static-009</id>
-        <link href="https://shadowdog.world/blog/static-009"/>
+        <title type="html"><![CDATA[Static #7]]></title>
+        <id>static-007</id>
+        <link href="https://shadowdog.world/blog/static-007"/>
+        <updated>2022-03-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Example banner]]></summary>
+        <author>
+            <name>Kynan</name>
+            <uri>https:/brokenbaysoftware.co/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Static #6]]></title>
+        <id>static-006</id>
+        <link href="https://shadowdog.world/blog/static-006"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -151,9 +151,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #12]]></title>
-        <id>static-012</id>
-        <link href="https://shadowdog.world/blog/static-012"/>
+        <title type="html"><![CDATA[Static #13]]></title>
+        <id>static-013</id>
+        <link href="https://shadowdog.world/blog/static-013"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -162,9 +162,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #13]]></title>
-        <id>static-013</id>
-        <link href="https://shadowdog.world/blog/static-013"/>
+        <title type="html"><![CDATA[Static #12]]></title>
+        <id>static-012</id>
+        <link href="https://shadowdog.world/blog/static-012"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -195,9 +195,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #18]]></title>
-        <id>static-018</id>
-        <link href="https://shadowdog.world/blog/static-018"/>
+        <title type="html"><![CDATA[Static #20]]></title>
+        <id>static-020</id>
+        <link href="https://shadowdog.world/blog/static-020"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -206,9 +206,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #19]]></title>
-        <id>static-019</id>
-        <link href="https://shadowdog.world/blog/static-019"/>
+        <title type="html"><![CDATA[Static #18]]></title>
+        <id>static-018</id>
+        <link href="https://shadowdog.world/blog/static-018"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -228,9 +228,20 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #20]]></title>
-        <id>static-020</id>
-        <link href="https://shadowdog.world/blog/static-020"/>
+        <title type="html"><![CDATA[Static #19]]></title>
+        <id>static-019</id>
+        <link href="https://shadowdog.world/blog/static-019"/>
+        <updated>2022-03-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Example banner]]></summary>
+        <author>
+            <name>Kynan</name>
+            <uri>https:/brokenbaysoftware.co/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Static #23]]></title>
+        <id>static-023</id>
+        <link href="https://shadowdog.world/blog/static-023"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -253,17 +264,6 @@
         <title type="html"><![CDATA[Static #24]]></title>
         <id>static-024</id>
         <link href="https://shadowdog.world/blog/static-024"/>
-        <updated>2022-03-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Example banner]]></summary>
-        <author>
-            <name>Kynan</name>
-            <uri>https:/brokenbaysoftware.co/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Static #23]]></title>
-        <id>static-023</id>
-        <link href="https://shadowdog.world/blog/static-023"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -349,9 +349,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #32]]></title>
-        <id>static-032</id>
-        <link href="https://shadowdog.world/blog/static-032"/>
+        <title type="html"><![CDATA[Static #33]]></title>
+        <id>static-033</id>
+        <link href="https://shadowdog.world/blog/static-033"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -360,9 +360,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #33]]></title>
-        <id>static-033</id>
-        <link href="https://shadowdog.world/blog/static-033"/>
+        <title type="html"><![CDATA[Static #31]]></title>
+        <id>static-031</id>
+        <link href="https://shadowdog.world/blog/static-031"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -382,9 +382,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #31]]></title>
-        <id>static-031</id>
-        <link href="https://shadowdog.world/blog/static-031"/>
+        <title type="html"><![CDATA[Static #32]]></title>
+        <id>static-032</id>
+        <link href="https://shadowdog.world/blog/static-032"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -448,17 +448,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #41]]></title>
-        <id>static-041</id>
-        <link href="https://shadowdog.world/blog/static-041"/>
-        <updated>2022-03-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Example banner]]></summary>
-        <author>
-            <name>Kynan</name>
-            <uri>https:/brokenbaysoftware.co/</uri>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Static #42]]></title>
         <id>static-042</id>
         <link href="https://shadowdog.world/blog/static-042"/>
@@ -484,6 +473,17 @@
         <title type="html"><![CDATA[Static #40]]></title>
         <id>static-040</id>
         <link href="https://shadowdog.world/blog/static-040"/>
+        <updated>2022-03-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Example banner]]></summary>
+        <author>
+            <name>Kynan</name>
+            <uri>https:/brokenbaysoftware.co/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Static #41]]></title>
+        <id>static-041</id>
+        <link href="https://shadowdog.world/blog/static-041"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -547,9 +547,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #50]]></title>
-        <id>static-050</id>
-        <link href="https://shadowdog.world/blog/static-050"/>
+        <title type="html"><![CDATA[Static #51]]></title>
+        <id>static-051</id>
+        <link href="https://shadowdog.world/blog/static-051"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -569,9 +569,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #51]]></title>
-        <id>static-051</id>
-        <link href="https://shadowdog.world/blog/static-051"/>
+        <title type="html"><![CDATA[Static #52]]></title>
+        <id>static-052</id>
+        <link href="https://shadowdog.world/blog/static-052"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -580,9 +580,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #52]]></title>
-        <id>static-052</id>
-        <link href="https://shadowdog.world/blog/static-052"/>
+        <title type="html"><![CDATA[Static #50]]></title>
+        <id>static-050</id>
+        <link href="https://shadowdog.world/blog/static-050"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -613,9 +613,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #55]]></title>
-        <id>static-055</id>
-        <link href="https://shadowdog.world/blog/static-055"/>
+        <title type="html"><![CDATA[Static #58]]></title>
+        <id>static-058</id>
+        <link href="https://shadowdog.world/blog/static-058"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -635,9 +635,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #57]]></title>
-        <id>static-057</id>
-        <link href="https://shadowdog.world/blog/static-057"/>
+        <title type="html"><![CDATA[Static #55]]></title>
+        <id>static-055</id>
+        <link href="https://shadowdog.world/blog/static-055"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -646,9 +646,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #58]]></title>
-        <id>static-058</id>
-        <link href="https://shadowdog.world/blog/static-058"/>
+        <title type="html"><![CDATA[Static #57]]></title>
+        <id>static-057</id>
+        <link href="https://shadowdog.world/blog/static-057"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -668,9 +668,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #60]]></title>
-        <id>static-060</id>
-        <link href="https://shadowdog.world/blog/static-060"/>
+        <title type="html"><![CDATA[Static #61]]></title>
+        <id>static-061</id>
+        <link href="https://shadowdog.world/blog/static-061"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -679,9 +679,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #61]]></title>
-        <id>static-061</id>
-        <link href="https://shadowdog.world/blog/static-061"/>
+        <title type="html"><![CDATA[Static #60]]></title>
+        <id>static-060</id>
+        <link href="https://shadowdog.world/blog/static-060"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -745,9 +745,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #68]]></title>
-        <id>static-068</id>
-        <link href="https://shadowdog.world/blog/static-068"/>
+        <title type="html"><![CDATA[Static #69]]></title>
+        <id>static-069</id>
+        <link href="https://shadowdog.world/blog/static-069"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -767,9 +767,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #70]]></title>
-        <id>static-070</id>
-        <link href="https://shadowdog.world/blog/static-070"/>
+        <title type="html"><![CDATA[Static #68]]></title>
+        <id>static-068</id>
+        <link href="https://shadowdog.world/blog/static-068"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -778,9 +778,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #69]]></title>
-        <id>static-069</id>
-        <link href="https://shadowdog.world/blog/static-069"/>
+        <title type="html"><![CDATA[Static #70]]></title>
+        <id>static-070</id>
+        <link href="https://shadowdog.world/blog/static-070"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -833,9 +833,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #78]]></title>
-        <id>static-078</id>
-        <link href="https://shadowdog.world/blog/static-078"/>
+        <title type="html"><![CDATA[Static #75]]></title>
+        <id>static-075</id>
+        <link href="https://shadowdog.world/blog/static-075"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -855,9 +855,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #75]]></title>
-        <id>static-075</id>
-        <link href="https://shadowdog.world/blog/static-075"/>
+        <title type="html"><![CDATA[Static #78]]></title>
+        <id>static-078</id>
+        <link href="https://shadowdog.world/blog/static-078"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -899,17 +899,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Robot #3]]></title>
-        <id>dancing-robot-003</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-003"/>
-        <updated>2022-03-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Example banner]]></summary>
-        <author>
-            <name>Kynan</name>
-            <uri>https:/brokenbaysoftware.co/</uri>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dancing Robot #2]]></title>
         <id>dancing-robot-002</id>
         <link href="https://shadowdog.world/blog/dancing-robot-002"/>
@@ -921,9 +910,42 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dancing Robot #3]]></title>
+        <id>dancing-robot-003</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-003"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Example banner]]></summary>
+        <author>
+            <name>Kynan</name>
+            <uri>https:/brokenbaysoftware.co/</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dancing Robot #6]]></title>
         <id>dancing-robot-006</id>
         <link href="https://shadowdog.world/blog/dancing-robot-006"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Example banner]]></summary>
+        <author>
+            <name>Kynan</name>
+            <uri>https:/brokenbaysoftware.co/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dancing Robot #4]]></title>
+        <id>dancing-robot-004</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-004"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Example banner]]></summary>
+        <author>
+            <name>Kynan</name>
+            <uri>https:/brokenbaysoftware.co/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dancing Robot #5]]></title>
+        <id>dancing-robot-005</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-005"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -946,28 +968,6 @@
         <title type="html"><![CDATA[Dancing Robot #8]]></title>
         <id>dancing-robot-008</id>
         <link href="https://shadowdog.world/blog/dancing-robot-008"/>
-        <updated>2022-03-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Example banner]]></summary>
-        <author>
-            <name>Kynan</name>
-            <uri>https:/brokenbaysoftware.co/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dancing Robot #5]]></title>
-        <id>dancing-robot-005</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-005"/>
-        <updated>2022-03-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Example banner]]></summary>
-        <author>
-            <name>Kynan</name>
-            <uri>https:/brokenbaysoftware.co/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dancing Robot #4]]></title>
-        <id>dancing-robot-004</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-004"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -1042,20 +1042,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Robot #14]]></title>
-        <id>dancing-robot-014</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-014"/>
-        <updated>2022-03-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Example banner]]></summary>
-        <author>
-            <name>Kynan</name>
-            <uri>https:/brokenbaysoftware.co/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dancing Robot #15]]></title>
-        <id>dancing-robot-015</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-015"/>
+        <title type="html"><![CDATA[Dancing Robot #17]]></title>
+        <id>dancing-robot-017</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-017"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -1075,9 +1064,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Robot #17]]></title>
-        <id>dancing-robot-017</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-017"/>
+        <title type="html"><![CDATA[Dancing Robot #19]]></title>
+        <id>dancing-robot-019</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-019"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -1086,9 +1075,20 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Robot #19]]></title>
-        <id>dancing-robot-019</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-019"/>
+        <title type="html"><![CDATA[Dancing Robot #14]]></title>
+        <id>dancing-robot-014</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-014"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Example banner]]></summary>
+        <author>
+            <name>Kynan</name>
+            <uri>https:/brokenbaysoftware.co/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dancing Robot #15]]></title>
+        <id>dancing-robot-015</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-015"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -1119,28 +1119,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Robot #25]]></title>
-        <id>dancing-robot-025</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-025"/>
-        <updated>2022-03-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Example banner]]></summary>
-        <author>
-            <name>Kynan</name>
-            <uri>https:/brokenbaysoftware.co/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dancing Robot #23]]></title>
-        <id>dancing-robot-023</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-023"/>
-        <updated>2022-03-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Example banner]]></summary>
-        <author>
-            <name>Kynan</name>
-            <uri>https:/brokenbaysoftware.co/</uri>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dancing Robot #21]]></title>
         <id>dancing-robot-021</id>
         <link href="https://shadowdog.world/blog/dancing-robot-021"/>
@@ -1155,6 +1133,17 @@
         <title type="html"><![CDATA[Dancing Robot #22]]></title>
         <id>dancing-robot-022</id>
         <link href="https://shadowdog.world/blog/dancing-robot-022"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Example banner]]></summary>
+        <author>
+            <name>Kynan</name>
+            <uri>https:/brokenbaysoftware.co/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dancing Robot #25]]></title>
+        <id>dancing-robot-025</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-025"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -1196,6 +1185,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dancing Robot #23]]></title>
+        <id>dancing-robot-023</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-023"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Example banner]]></summary>
+        <author>
+            <name>Kynan</name>
+            <uri>https:/brokenbaysoftware.co/</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dancing Robot #29]]></title>
         <id>dancing-robot-029</id>
         <link href="https://shadowdog.world/blog/dancing-robot-029"/>
@@ -1218,9 +1218,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Robot #30]]></title>
-        <id>dancing-robot-030</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-030"/>
+        <title type="html"><![CDATA[Dancing Robot #32]]></title>
+        <id>dancing-robot-032</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-032"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -1229,9 +1229,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Robot #32]]></title>
-        <id>dancing-robot-032</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-032"/>
+        <title type="html"><![CDATA[Dancing Robot #30]]></title>
+        <id>dancing-robot-030</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-030"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -1284,17 +1284,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Robot #38]]></title>
-        <id>dancing-robot-038</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-038"/>
-        <updated>2022-03-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Example banner]]></summary>
-        <author>
-            <name>Kynan</name>
-            <uri>https:/brokenbaysoftware.co/</uri>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dancing Robot #35]]></title>
         <id>dancing-robot-035</id>
         <link href="https://shadowdog.world/blog/dancing-robot-035"/>
@@ -1317,42 +1306,20 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dancing Robot #38]]></title>
+        <id>dancing-robot-038</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-038"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Example banner]]></summary>
+        <author>
+            <name>Kynan</name>
+            <uri>https:/brokenbaysoftware.co/</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dancing Robot #40]]></title>
         <id>dancing-robot-040</id>
         <link href="https://shadowdog.world/blog/dancing-robot-040"/>
-        <updated>2022-03-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Example banner]]></summary>
-        <author>
-            <name>Kynan</name>
-            <uri>https:/brokenbaysoftware.co/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dancing Robot #42]]></title>
-        <id>dancing-robot-042</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-042"/>
-        <updated>2022-03-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Example banner]]></summary>
-        <author>
-            <name>Kynan</name>
-            <uri>https:/brokenbaysoftware.co/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dancing Robot #41]]></title>
-        <id>dancing-robot-041</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-041"/>
-        <updated>2022-03-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Example banner]]></summary>
-        <author>
-            <name>Kynan</name>
-            <uri>https:/brokenbaysoftware.co/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dancing Robot #43]]></title>
-        <id>dancing-robot-043</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-043"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -1372,6 +1339,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dancing Robot #43]]></title>
+        <id>dancing-robot-043</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-043"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Example banner]]></summary>
+        <author>
+            <name>Kynan</name>
+            <uri>https:/brokenbaysoftware.co/</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dancing Robot #45]]></title>
         <id>dancing-robot-045</id>
         <link href="https://shadowdog.world/blog/dancing-robot-045"/>
@@ -1383,9 +1361,20 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Robot #47]]></title>
-        <id>dancing-robot-047</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-047"/>
+        <title type="html"><![CDATA[Dancing Robot #41]]></title>
+        <id>dancing-robot-041</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-041"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Example banner]]></summary>
+        <author>
+            <name>Kynan</name>
+            <uri>https:/brokenbaysoftware.co/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dancing Robot #42]]></title>
+        <id>dancing-robot-042</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-042"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -1405,31 +1394,20 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dancing Robot #47]]></title>
+        <id>dancing-robot-047</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-047"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Example banner]]></summary>
+        <author>
+            <name>Kynan</name>
+            <uri>https:/brokenbaysoftware.co/</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dancing Robot #48]]></title>
         <id>dancing-robot-048</id>
         <link href="https://shadowdog.world/blog/dancing-robot-048"/>
-        <updated>2022-03-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Example banner]]></summary>
-        <author>
-            <name>Kynan</name>
-            <uri>https:/brokenbaysoftware.co/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dancing Robot #49]]></title>
-        <id>dancing-robot-049</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-049"/>
-        <updated>2022-03-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Example banner]]></summary>
-        <author>
-            <name>Kynan</name>
-            <uri>https:/brokenbaysoftware.co/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dancing Robot #52]]></title>
-        <id>dancing-robot-052</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-052"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -1449,9 +1427,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dancing Robot #52]]></title>
+        <id>dancing-robot-052</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-052"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Example banner]]></summary>
+        <author>
+            <name>Kynan</name>
+            <uri>https:/brokenbaysoftware.co/</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dancing Robot #51]]></title>
         <id>dancing-robot-051</id>
         <link href="https://shadowdog.world/blog/dancing-robot-051"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Example banner]]></summary>
+        <author>
+            <name>Kynan</name>
+            <uri>https:/brokenbaysoftware.co/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dancing Robot #49]]></title>
+        <id>dancing-robot-049</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-049"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -1482,20 +1482,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Robot #58]]></title>
-        <id>dancing-robot-058</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-058"/>
-        <updated>2022-03-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Example banner]]></summary>
-        <author>
-            <name>Kynan</name>
-            <uri>https:/brokenbaysoftware.co/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dancing Robot #56]]></title>
-        <id>dancing-robot-056</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-056"/>
+        <title type="html"><![CDATA[Dancing Robot #55]]></title>
+        <id>dancing-robot-055</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-055"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -1515,9 +1504,20 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Robot #55]]></title>
-        <id>dancing-robot-055</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-055"/>
+        <title type="html"><![CDATA[Dancing Robot #56]]></title>
+        <id>dancing-robot-056</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-056"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Example banner]]></summary>
+        <author>
+            <name>Kynan</name>
+            <uri>https:/brokenbaysoftware.co/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dancing Robot #58]]></title>
+        <id>dancing-robot-058</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-058"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -1779,9 +1779,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Robot #82]]></title>
-        <id>dancing-robot-082</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-082"/>
+        <title type="html"><![CDATA[Dancing Robot #83]]></title>
+        <id>dancing-robot-083</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-083"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -1790,9 +1790,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Robot #83]]></title>
-        <id>dancing-robot-083</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-083"/>
+        <title type="html"><![CDATA[Dancing Robot #82]]></title>
+        <id>dancing-robot-082</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-082"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -1856,28 +1856,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Robot #91]]></title>
-        <id>dancing-robot-091</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-091"/>
-        <updated>2022-03-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Example banner]]></summary>
-        <author>
-            <name>Kynan</name>
-            <uri>https:/brokenbaysoftware.co/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dancing Robot #92]]></title>
-        <id>dancing-robot-092</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-092"/>
-        <updated>2022-03-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Example banner]]></summary>
-        <author>
-            <name>Kynan</name>
-            <uri>https:/brokenbaysoftware.co/</uri>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dancing Robot #86]]></title>
         <id>dancing-robot-086</id>
         <link href="https://shadowdog.world/blog/dancing-robot-086"/>
@@ -1889,9 +1867,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dancing Robot #91]]></title>
+        <id>dancing-robot-091</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-091"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Example banner]]></summary>
+        <author>
+            <name>Kynan</name>
+            <uri>https:/brokenbaysoftware.co/</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dancing Robot #87]]></title>
         <id>dancing-robot-087</id>
         <link href="https://shadowdog.world/blog/dancing-robot-087"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Example banner]]></summary>
+        <author>
+            <name>Kynan</name>
+            <uri>https:/brokenbaysoftware.co/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dancing Robot #92]]></title>
+        <id>dancing-robot-092</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-092"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -1966,9 +1966,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Robot #99]]></title>
-        <id>dancing-robot-099</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-099"/>
+        <title type="html"><![CDATA[Dancing Robot #100]]></title>
+        <id>dancing-robot-100</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-100"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -1977,9 +1977,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Robot #100]]></title>
-        <id>dancing-robot-100</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-100"/>
+        <title type="html"><![CDATA[Dancing Robot #99]]></title>
+        <id>dancing-robot-099</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-099"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -2021,9 +2021,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Robot #102]]></title>
-        <id>dancing-robot-102</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-102"/>
+        <title type="html"><![CDATA[Dancing Robot #101]]></title>
+        <id>dancing-robot-101</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-101"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -2032,9 +2032,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Robot #101]]></title>
-        <id>dancing-robot-101</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-101"/>
+        <title type="html"><![CDATA[Dancing Robot #102]]></title>
+        <id>dancing-robot-102</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-102"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
