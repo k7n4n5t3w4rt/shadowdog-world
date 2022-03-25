@@ -40,7 +40,7 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 .heroBanner-container-h1 {
     text-shadow: 4px 4px 5px #444;
     -webkit-text-stroke: 0.5px black;
-    font-size: 14vw;
+    font-size: 13vw;
     color: white;
 }
 

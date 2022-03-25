@@ -50,13 +50,11 @@ export default function HomepageFeatures() {
                     </div>
                     <div className={clsx("col col--4")}>
                         <div className="text--center">
-                            <a href="/roadmap/">
-                                <img
-                                    className={styles.featureImage}
-                                    alt="Shadow"
-                                    src="/img/sd-shadow-rough.png"
-                                />
-                            </a>
+                            <img
+                                className={styles.featureImage}
+                                alt="Shadow"
+                                src="/img/sd-shadow-rough.png"
+                            />
                         </div>
                         <div className="text--center padding-horiz--md">
                             <h3>#3 Shadowdog's Shadow</h3>
