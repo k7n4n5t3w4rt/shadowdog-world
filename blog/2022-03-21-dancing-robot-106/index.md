@@ -5,4 +5,4 @@ authors: [kynan]
 tags: [dancing-robot]
 ---
 
-![Example banner](/img/stories/dancing-robot_new/zzz.png)
+![Example banner](/img/stories/dancing-robot/zzz.png)

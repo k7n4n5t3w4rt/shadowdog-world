@@ -9,7 +9,7 @@ export default function HomepageFeatures() {
                 <div className="row">
                     <div className={clsx("col col--4")}>
                         <div className="text--center">
-                            <a href="/stories/dancing-robot_new/">
+                            <a href="/stories/dancing-robot/">
                                 <img
                                     className={styles.featureImage}
                                     alt="Shadowdog and the Dancing Robot"
@@ -29,7 +29,7 @@ export default function HomepageFeatures() {
                     </div>
                     <div className={clsx("col col--4")}>
                         <div className="text--center">
-                            <a href="/stories/static_new/">
+                            <a href="/stories/static/">
                                 <img
                                     className={styles.featureImage}
                                     alt="Static"

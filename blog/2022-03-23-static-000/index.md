@@ -5,4 +5,4 @@ authors: [kynan]
 tags: [static]
 ---
 
-![Example banner](/img/stories/static_new/___.png)
+![Example banner](/img/stories/static/___.png)
