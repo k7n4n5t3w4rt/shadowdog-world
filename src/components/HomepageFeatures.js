@@ -29,7 +29,7 @@ export default function HomepageFeatures() {
                     </div>
                     <div className={clsx("col col--4")}>
                         <div className="text--center">
-                            <a href="/stories/static/">
+                            <a href="/stories/static_new/">
                                 <img
                                     className={styles.featureImage}
                                     alt="Static"

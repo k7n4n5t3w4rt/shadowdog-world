@@ -10,7 +10,7 @@ function Shot({ image, title }) {
         <img
             className={styles.storyImage}
             alt={title}
-            src={"/img/stories/static/" + image + ".png"}
+            src={"/img/stories/static_new/" + image + ".png"}
         />
     );
 }
