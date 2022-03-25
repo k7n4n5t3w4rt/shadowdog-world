@@ -4,7 +4,7 @@ title: About
 
 # About Shadowdog
 
-I started drawing Shadowdog stories one frame a day on [Instagram](https://www.instagram.com/5h4d0wd06/) when I was out of work and locked down in 2020 due to COVID. I've been drawing and imagining Shadowdog, and his pal Oysterboy, for years. My brother, Tim, and I made up a whole bunch of stories once, but then life got in the way.
+I started drawing Shadowdog stories one frame a day on [Instagram](https://www.instagram.com/p/B-S21AgHzGJ/) when I was out of work and locked down in 2020 due to COVID. I've been drawing and imagining Shadowdog, and his pal Oysterboy, for years. My brother, Tim, and I made up a whole bunch of stories once, but then life got in the way.
 
 When there's a new story in progress, I'm dong a frame a day. I learned about [Song A Day](https://songaday.world/) by Jonathan Mann. Instead of Patreon or whatever, I'm planning to make each frame of each story into an NFT. The idea is that buying a frame will give you a share in the ownership - the actual IP - of that story. When I draw an animated version, that will be a derivative product and any proceeds from it will flow back to the owners. It's blockchain and smart contracts all the way down. The way of the future.
 
