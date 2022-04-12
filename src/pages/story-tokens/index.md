@@ -10,6 +10,10 @@ Whenever a derivative product is sold, people who hold story tokens for the stor
 
 Let's take _Shadowdog and the Dancing Robot_ as an example. There are 106 story tokens. If you hold one story token, you have certain rights with regard to that story, along with up to 105 other token holders. You control 1 vote when it comes to decision-making processes regarding derivative products made from _Shadowdog and the Dancing Robot_. When a derivative product is sold, you receive 1/106 (that's one one-hundred-and-sixth) of the royalties (minus gas fees).
 
-Some people might hold more than one story token, so they have proportionally more voting rights. Royalties flow back to story token holders in a way that is directly proportional to the number of tokens they hold. Holders of story tokens get a vote in the decision-making process for all derivative products. Again, the number of votes a person has is directly proportional to the number of tokens they hold in the story.
+Some people might hold more than one story token, so they have proportionally more voting rights. Royalties flow back to story token holders in a way that is directly proportional to the number of tokens they hold. Holders of story tokens get a vote in the decision-making process for all derivative products. Decisions like: Should we make this product? Who gets what proportion or the royalties? The number of votes a person has is directly proportional to the number of tokens they hold in the story.
+
+10% of the royalties from re-sales of all Shadowdog NFTs, including story tokens, flow back to the organisations we decide to support. 5% goes to the Shadowdog contract to cover gas fees. This means that royalties from the sale of derivative products are calculated based on the remaining 85%.
+
+Because I'm the originator of Shadowdog, some rights belong to me. By default, I own all new story tokens. They will be minted on the Shadowdog v1.0 smart contract and transferred to me. When you buy a story token, you buy it from me on the secondary market. I decide whether a new Shadowdog NFT is a derivative product from a particular story.
 
 All this happens automatically using smart contracts on the Ethereum blockchain - as far as possible. Some functions might not yet be supported by Ethereum and will happen on the Shadowdog platform.
