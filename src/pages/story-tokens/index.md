@@ -6,7 +6,7 @@ title: Story Tokens
 
 Every Shadowdog story is minted as a series of story tokens. Holding a story token is, in some important ways, like owning part of the story. In the future, many Shadowdog projects based on these stories will be minted as NFTs. I call these “defivative producs”. For example, an animated version of a story will be a derivative product. I plan to make many collaborations with other artists - musicians, for example - to create many derivative products.
 
-Whenever a derivative product is sold, people who hold story tokens for the story on which the derivative product is based will earn royalties. They will also have a say in which derivative products are made and how the royalties will be distribiuted. Again, the number of votes they have an this decision making process will be proportional to the number of tokens they hold in the story.
+Whenever a derivative product is sold, people who hold story tokens for the story on which the derivative product is based will earn royalties. They will also have a say in which derivative products are made and how the royalties will be distribiuted. Again, the number of votes they have in this decision making process will be proportional to the number of tokens they hold in the story.
 
 Let's take _Shadowdog and the Dancing Robot_ as an example. There are 106 story tokens. If you hold one story token, you have certain rights with regard to that story, along with up to 105 other token holders. You control 1 vote when it comes to decision-making processes regarding derivative products made from _Shadowdog and the Dancing Robot_. When a derivative product is sold, you receive 1/106 (that's one one-hundred-and-sixth) of the royalties (minus gas fees).
 
