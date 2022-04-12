@@ -51,6 +51,11 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                     items: [
                         { to: "/about", label: "About", position: "left" },
                         {
+                            to: "/story-tokens",
+                            label: "Story Tokens",
+                            position: "left",
+                        },
+                        {
                             type: "dropdown",
                             label: "Stories",
                             position: "left",
@@ -83,6 +88,11 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                                 {
                                     to: "/about",
                                     label: "About",
+                                    position: "left",
+                                },
+                                {
+                                    to: "/story-tokens",
+                                    label: "Story Tokens",
                                     position: "left",
                                 },
                                 {

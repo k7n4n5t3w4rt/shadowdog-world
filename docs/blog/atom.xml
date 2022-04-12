@@ -855,9 +855,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #77]]></title>
-        <id>static-077</id>
-        <link href="https://shadowdog.world/blog/static-077"/>
+        <title type="html"><![CDATA[Static #78]]></title>
+        <id>static-078</id>
+        <link href="https://shadowdog.world/blog/static-078"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -866,9 +866,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static #78]]></title>
-        <id>static-078</id>
-        <link href="https://shadowdog.world/blog/static-078"/>
+        <title type="html"><![CDATA[Static #77]]></title>
+        <id>static-077</id>
+        <link href="https://shadowdog.world/blog/static-077"/>
         <updated>2022-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -1207,6 +1207,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dancing Robot #30]]></title>
+        <id>dancing-robot-030</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-030"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Example banner]]></summary>
+        <author>
+            <name>Kynan</name>
+            <uri>https:/brokenbaysoftware.co/</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dancing Robot #31]]></title>
         <id>dancing-robot-031</id>
         <link href="https://shadowdog.world/blog/dancing-robot-031"/>
@@ -1232,17 +1243,6 @@
         <title type="html"><![CDATA[Dancing Robot #33]]></title>
         <id>dancing-robot-033</id>
         <link href="https://shadowdog.world/blog/dancing-robot-033"/>
-        <updated>2022-03-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Example banner]]></summary>
-        <author>
-            <name>Kynan</name>
-            <uri>https:/brokenbaysoftware.co/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dancing Robot #30]]></title>
-        <id>dancing-robot-030</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-030"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -1328,9 +1328,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Robot #42]]></title>
-        <id>dancing-robot-042</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-042"/>
+        <title type="html"><![CDATA[Dancing Robot #41]]></title>
+        <id>dancing-robot-041</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-041"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -1339,9 +1339,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Robot #44]]></title>
-        <id>dancing-robot-044</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-044"/>
+        <title type="html"><![CDATA[Dancing Robot #42]]></title>
+        <id>dancing-robot-042</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-042"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
@@ -1361,9 +1361,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Robot #41]]></title>
-        <id>dancing-robot-041</id>
-        <link href="https://shadowdog.world/blog/dancing-robot-041"/>
+        <title type="html"><![CDATA[Dancing Robot #44]]></title>
+        <id>dancing-robot-044</id>
+        <link href="https://shadowdog.world/blog/dancing-robot-044"/>
         <updated>2022-03-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Example banner]]></summary>
         <author>
