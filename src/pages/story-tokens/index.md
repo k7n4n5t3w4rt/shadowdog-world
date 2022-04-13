@@ -19,3 +19,5 @@ Of course, story token holders will get swag and special utility that normal fol
 Because I'm the originator of Shadowdog, some rights belong to me. By default, I own all new story tokens. They will be minted on the Shadowdog v1.0 smart contract and transferred to me. When you buy a story token, you buy it from me on the secondary market. I decide whether a new Shadowdog NFT is a derivative product from a particular story.
 
 All this happens automatically using smart contracts on the Ethereum blockchain - as far as possible. Some functions might not yet be supported by Ethereum and will happen on the Shadowdog platform.
+
+This is all sounding a bit like terms and conditions. I should probably say this: I'm still working out the details and probably always will be. All of these arrangements and numbers will change. This is not a contract and, until some hypothetical time in the future when it might become a legal contract, you should make your decisions accordingly.

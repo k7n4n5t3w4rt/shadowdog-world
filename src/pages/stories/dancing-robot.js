@@ -37,7 +37,7 @@ export default function DancingRobot() {
 const shotList = [
     {
         title: "",
-        image: "___",
+        image: "000",
     },
     {
         title: "",
@@ -458,6 +458,10 @@ const shotList = [
     {
         title: "",
         image: "105",
+    },
+    {
+        title: "",
+        image: "106",
     },
     {
         title: "",
