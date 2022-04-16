@@ -68,6 +68,10 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                                     to: "/stories/static",
                                     label: "Static",
                                 },
+                                {
+                                    to: "/stories/the-shadow",
+                                    label: "The Shadow",
+                                },
                                 // ... more items
                             ],
                         },
@@ -103,6 +107,11 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                                 {
                                     to: "/stories/static",
                                     label: "Stories / Static",
+                                    position: "left",
+                                },
+                                {
+                                    to: "/stories/the-shadow",
+                                    label: "Stories / The Shadow",
                                     position: "left",
                                 },
                                 {
