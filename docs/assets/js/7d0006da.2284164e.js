@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshadowdog_world=self.webpackChunkshadowdog_world||[]).push([[6448],{72485:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/the-shadow","name":"the-shadow","count":1,"permalink":"/blog/tags/the-shadow"}')}}]);
