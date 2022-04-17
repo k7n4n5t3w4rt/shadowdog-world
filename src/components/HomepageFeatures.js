@@ -57,8 +57,11 @@ export default function HomepageFeatures() {
                             />
                         </div>
                         <div className="text--center padding-horiz--md">
-                            <h3>#3 Shadowdog's Shadow</h3>
-                            <p>COMING SOON...</p>
+                            <h3>#3 The Shadow</h3>
+                            <p>
+                                Shadowdog wakes up early one morning and soon
+                                gets an idea. What could possibly go wrong?
+                            </p>
                         </div>
                     </div>
                 </div>
