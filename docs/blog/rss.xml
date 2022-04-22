@@ -127,16 +127,16 @@
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
-            <title><![CDATA[Static #12]]></title>
-            <link>https://shadowdog.world/blog/static-012</link>
-            <guid>static-012</guid>
+            <title><![CDATA[Static #11]]></title>
+            <link>https://shadowdog.world/blog/static-011</link>
+            <guid>static-011</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
-            <title><![CDATA[Static #11]]></title>
-            <link>https://shadowdog.world/blog/static-011</link>
-            <guid>static-011</guid>
+            <title><![CDATA[Static #12]]></title>
+            <link>https://shadowdog.world/blog/static-012</link>
+            <guid>static-012</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
@@ -225,16 +225,16 @@
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
-            <title><![CDATA[Static #26]]></title>
-            <link>https://shadowdog.world/blog/static-026</link>
-            <guid>static-026</guid>
+            <title><![CDATA[Static #25]]></title>
+            <link>https://shadowdog.world/blog/static-025</link>
+            <guid>static-025</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
-            <title><![CDATA[Static #25]]></title>
-            <link>https://shadowdog.world/blog/static-025</link>
-            <guid>static-025</guid>
+            <title><![CDATA[Static #26]]></title>
+            <link>https://shadowdog.world/blog/static-026</link>
+            <guid>static-026</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
@@ -309,6 +309,13 @@
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
+            <title><![CDATA[Static #37]]></title>
+            <link>https://shadowdog.world/blog/static-037</link>
+            <guid>static-037</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Example banner]]></description>
+        </item>
+        <item>
             <title><![CDATA[Static #38]]></title>
             <link>https://shadowdog.world/blog/static-038</link>
             <guid>static-038</guid>
@@ -326,13 +333,6 @@
             <title><![CDATA[Static #40]]></title>
             <link>https://shadowdog.world/blog/static-040</link>
             <guid>static-040</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Example banner]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Static #37]]></title>
-            <link>https://shadowdog.world/blog/static-037</link>
-            <guid>static-037</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
@@ -407,16 +407,16 @@
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
-            <title><![CDATA[Static #52]]></title>
-            <link>https://shadowdog.world/blog/static-052</link>
-            <guid>static-052</guid>
+            <title><![CDATA[Static #51]]></title>
+            <link>https://shadowdog.world/blog/static-051</link>
+            <guid>static-051</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
-            <title><![CDATA[Static #51]]></title>
-            <link>https://shadowdog.world/blog/static-051</link>
-            <guid>static-051</guid>
+            <title><![CDATA[Static #52]]></title>
+            <link>https://shadowdog.world/blog/static-052</link>
+            <guid>static-052</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
@@ -470,6 +470,13 @@
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
+            <title><![CDATA[Static #60]]></title>
+            <link>https://shadowdog.world/blog/static-060</link>
+            <guid>static-060</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Example banner]]></description>
+        </item>
+        <item>
             <title><![CDATA[Static #61]]></title>
             <link>https://shadowdog.world/blog/static-061</link>
             <guid>static-061</guid>
@@ -480,13 +487,6 @@
             <title><![CDATA[Static #62]]></title>
             <link>https://shadowdog.world/blog/static-062</link>
             <guid>static-062</guid>
-            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Example banner]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Static #60]]></title>
-            <link>https://shadowdog.world/blog/static-060</link>
-            <guid>static-060</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
@@ -610,16 +610,16 @@
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
-            <title><![CDATA[Dancing Robot #2]]></title>
-            <link>https://shadowdog.world/blog/dancing-robot-002</link>
-            <guid>dancing-robot-002</guid>
+            <title><![CDATA[Dancing Robot #1]]></title>
+            <link>https://shadowdog.world/blog/dancing-robot-001</link>
+            <guid>dancing-robot-001</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
-            <title><![CDATA[Dancing Robot #1]]></title>
-            <link>https://shadowdog.world/blog/dancing-robot-001</link>
-            <guid>dancing-robot-001</guid>
+            <title><![CDATA[Dancing Robot #2]]></title>
+            <link>https://shadowdog.world/blog/dancing-robot-002</link>
+            <guid>dancing-robot-002</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
@@ -673,6 +673,13 @@
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
+            <title><![CDATA[Dancing Robot #10]]></title>
+            <link>https://shadowdog.world/blog/dancing-robot-010</link>
+            <guid>dancing-robot-010</guid>
+            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Example banner]]></description>
+        </item>
+        <item>
             <title><![CDATA[Dancing Robot #11]]></title>
             <link>https://shadowdog.world/blog/dancing-robot-011</link>
             <guid>dancing-robot-011</guid>
@@ -687,9 +694,9 @@
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
-            <title><![CDATA[Dancing Robot #10]]></title>
-            <link>https://shadowdog.world/blog/dancing-robot-010</link>
-            <guid>dancing-robot-010</guid>
+            <title><![CDATA[Dancing Robot #13]]></title>
+            <link>https://shadowdog.world/blog/dancing-robot-013</link>
+            <guid>dancing-robot-013</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
@@ -701,13 +708,6 @@
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
-            <title><![CDATA[Dancing Robot #13]]></title>
-            <link>https://shadowdog.world/blog/dancing-robot-013</link>
-            <guid>dancing-robot-013</guid>
-            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Example banner]]></description>
-        </item>
-        <item>
             <title><![CDATA[Dancing Robot #15]]></title>
             <link>https://shadowdog.world/blog/dancing-robot-015</link>
             <guid>dancing-robot-015</guid>
@@ -715,16 +715,16 @@
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
-            <title><![CDATA[Dancing Robot #17]]></title>
-            <link>https://shadowdog.world/blog/dancing-robot-017</link>
-            <guid>dancing-robot-017</guid>
+            <title><![CDATA[Dancing Robot #16]]></title>
+            <link>https://shadowdog.world/blog/dancing-robot-016</link>
+            <guid>dancing-robot-016</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
-            <title><![CDATA[Dancing Robot #16]]></title>
-            <link>https://shadowdog.world/blog/dancing-robot-016</link>
-            <guid>dancing-robot-016</guid>
+            <title><![CDATA[Dancing Robot #17]]></title>
+            <link>https://shadowdog.world/blog/dancing-robot-017</link>
+            <guid>dancing-robot-017</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
@@ -806,6 +806,13 @@
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
+            <title><![CDATA[Dancing Robot #29]]></title>
+            <link>https://shadowdog.world/blog/dancing-robot-029</link>
+            <guid>dancing-robot-029</guid>
+            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Example banner]]></description>
+        </item>
+        <item>
             <title><![CDATA[Dancing Robot #30]]></title>
             <link>https://shadowdog.world/blog/dancing-robot-030</link>
             <guid>dancing-robot-030</guid>
@@ -823,13 +830,6 @@
             <title><![CDATA[Dancing Robot #32]]></title>
             <link>https://shadowdog.world/blog/dancing-robot-032</link>
             <guid>dancing-robot-032</guid>
-            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Example banner]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dancing Robot #29]]></title>
-            <link>https://shadowdog.world/blog/dancing-robot-029</link>
-            <guid>dancing-robot-029</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
@@ -932,16 +932,16 @@
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
-            <title><![CDATA[Dancing Robot #47]]></title>
-            <link>https://shadowdog.world/blog/dancing-robot-047</link>
-            <guid>dancing-robot-047</guid>
+            <title><![CDATA[Dancing Robot #48]]></title>
+            <link>https://shadowdog.world/blog/dancing-robot-048</link>
+            <guid>dancing-robot-048</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
-            <title><![CDATA[Dancing Robot #48]]></title>
-            <link>https://shadowdog.world/blog/dancing-robot-048</link>
-            <guid>dancing-robot-048</guid>
+            <title><![CDATA[Dancing Robot #47]]></title>
+            <link>https://shadowdog.world/blog/dancing-robot-047</link>
+            <guid>dancing-robot-047</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
@@ -1079,16 +1079,16 @@
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
-            <title><![CDATA[Dancing Robot #69]]></title>
-            <link>https://shadowdog.world/blog/dancing-robot-069</link>
-            <guid>dancing-robot-069</guid>
+            <title><![CDATA[Dancing Robot #68]]></title>
+            <link>https://shadowdog.world/blog/dancing-robot-068</link>
+            <guid>dancing-robot-068</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
-            <title><![CDATA[Dancing Robot #71]]></title>
-            <link>https://shadowdog.world/blog/dancing-robot-071</link>
-            <guid>dancing-robot-071</guid>
+            <title><![CDATA[Dancing Robot #69]]></title>
+            <link>https://shadowdog.world/blog/dancing-robot-069</link>
+            <guid>dancing-robot-069</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
@@ -1100,9 +1100,9 @@
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
-            <title><![CDATA[Dancing Robot #68]]></title>
-            <link>https://shadowdog.world/blog/dancing-robot-068</link>
-            <guid>dancing-robot-068</guid>
+            <title><![CDATA[Dancing Robot #71]]></title>
+            <link>https://shadowdog.world/blog/dancing-robot-071</link>
+            <guid>dancing-robot-071</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
@@ -1240,16 +1240,16 @@
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
-            <title><![CDATA[Dancing Robot #92]]></title>
-            <link>https://shadowdog.world/blog/dancing-robot-092</link>
-            <guid>dancing-robot-092</guid>
+            <title><![CDATA[Dancing Robot #91]]></title>
+            <link>https://shadowdog.world/blog/dancing-robot-091</link>
+            <guid>dancing-robot-091</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
-            <title><![CDATA[Dancing Robot #91]]></title>
-            <link>https://shadowdog.world/blog/dancing-robot-091</link>
-            <guid>dancing-robot-091</guid>
+            <title><![CDATA[Dancing Robot #92]]></title>
+            <link>https://shadowdog.world/blog/dancing-robot-092</link>
+            <guid>dancing-robot-092</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
@@ -1289,6 +1289,13 @@
             <description><![CDATA[Example banner]]></description>
         </item>
         <item>
+            <title><![CDATA[Dancing Robot #98]]></title>
+            <link>https://shadowdog.world/blog/dancing-robot-098</link>
+            <guid>dancing-robot-098</guid>
+            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Example banner]]></description>
+        </item>
+        <item>
             <title><![CDATA[Dancing Robot #99]]></title>
             <link>https://shadowdog.world/blog/dancing-robot-099</link>
             <guid>dancing-robot-099</guid>
@@ -1320,13 +1327,6 @@
             <title><![CDATA[Dancing Robot #103]]></title>
             <link>https://shadowdog.world/blog/dancing-robot-103</link>
             <guid>dancing-robot-103</guid>
-            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Example banner]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dancing Robot #98]]></title>
-            <link>https://shadowdog.world/blog/dancing-robot-098</link>
-            <guid>dancing-robot-098</guid>
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Example banner]]></description>
         </item>
