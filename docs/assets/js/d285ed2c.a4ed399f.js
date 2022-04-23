@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshadowdog_world=self.webpackChunkshadowdog_world||[]).push([[6011],{45770:function(e){e.exports=JSON.parse('{"permalink":"/blog/page/11","page":11,"postsPerPage":10,"totalPages":20,"totalCount":193,"previousPage":"/blog/page/10","nextPage":"/blog/page/12","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
