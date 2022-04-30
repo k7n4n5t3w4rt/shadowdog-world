@@ -1,8 +1,0 @@
----
-slug: static-043
-title: "Static #43"
-authors: [kynan]
-tags: [static]
----
-
-![Example banner](/img/stories/static_new/043.png)

@@ -65,6 +65,30 @@ const shotList = [
     },
     {
         title: "",
+        image: "007",
+    },
+    {
+        title: "",
+        image: "008",
+    },
+    {
+        title: "",
+        image: "009",
+    },
+    {
+        title: "",
+        image: "010",
+    },
+    {
+        title: "",
+        image: "011",
+    },
+    {
+        title: "",
+        image: "012",
+    },
+    {
+        title: "",
         image: "to-be-continued",
     },
 ];
