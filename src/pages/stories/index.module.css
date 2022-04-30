@@ -22,17 +22,41 @@
     margin-bottom: 20px;
 }
 
+@media screen and (max-width: 1280px) {
+    .storyImage {
+        width: 31.7%;
+    }
+}
 @media screen and (max-width: 1200px) {
+    .storyImage {
+        width: 31.3%;
+    }
+}
+@media screen and (max-width: 1024px) {
     .storyImage {
         width: 31.3%;
     }
 }
 @media screen and (max-width: 966px) {
     .storyImage {
-        width: 50%;
+        width: 47.2%;
     }
 }
-
+@media screen and (max-width: 912px) {
+    .storyImage {
+        width: 47.7%;
+    }
+}
+@media screen and (max-width: 820px) {
+    .storyImage {
+        width: 47.4%;
+    }
+}
+@media screen and (max-width: 768px) {
+    .storyImage {
+        width: 47.2%;
+    }
+}
 @media screen and (max-width: 697px) {
     .storyImage {
         width: 100%;
