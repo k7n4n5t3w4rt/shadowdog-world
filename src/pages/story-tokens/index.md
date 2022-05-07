@@ -10,7 +10,7 @@ There are currently 185 story tokens.
 
 Maybe, if you have one story token you can control 1 vote out of 185 when it comes to decision-making processes regarding new creative products, which will be released as NFTs. These will be things like animations and film clips.
 
-Maybe, when an NFT is sold, you will receive 1/185 (that's one one-hundred-and-eighty-fifth) of the available royalties. "Available" might mean whatever is left after collaborators take their share and percentages are reserved to cover costs (Ethereum gas fees, basically) and charities. As far as possible, qll this will happen using smart contracts on the Ethereum blockchain. Some functions might not yet be supported by Ethereum and will need to be patched in somehow.
+Maybe, when an NFT is sold, you will receive 1/185 (that's one one-hundred-and-eighty-fifth) of the available royalties. "Available" might mean whatever is left after collaborators take their share and percentages are reserved to cover costs (Ethereum gas fees, basically) and charities. As far as possible, this will happen using smart contracts on the Ethereum blockchain. Some functions might not yet be supported by Ethereum and will need to be patched in somehow.
 
 Maybe story token holders get swag and special “utility”.
 
