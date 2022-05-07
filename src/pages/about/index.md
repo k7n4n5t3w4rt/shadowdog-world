@@ -4,7 +4,7 @@ title: About
 
 # About Shadowdog
 
-Shadowdog is a webcomic and an art project. It's a prototype for what [I imagine] a digital brand might be like in the next decade or two.
+Shadowdog is a webcomic and an art project. It's a prototype for what a digital brand might be like in the next decade or two.
 
 I've been drawing and thinking about Shadowdog for years but I started posting stories, one frame per day, on [Instagram](https://www.instagram.com/p/B-S21AgHzGJ/) when I was locked down in March 2020.
 
