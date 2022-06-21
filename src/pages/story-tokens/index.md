@@ -18,4 +18,4 @@ When an NFT is sold, you will receive 1/185 (that's one one-hundred-and-eighty-f
 
 Maybe story token holders get swag and special “utility”.
 
-Story tokens are all minted on [the Shadowdog v1.0 smart contract](https://etherscan.io/address/0x12fe6025acb2f2e42a5852b8495a6f70daa47443). That's how to know they're real. I can send a story token to your Ethereum wallet address. At the moment, the only criteria for getting one is being interested. If you'd like to join in the experiment, [let me know](https://discord.gg/EzDTZUQq8T). I can help you get set up with an Ethereum wallet and send you a story token.
+Story tokens are all minted on [the Shadowdog v1.0 smart contract](https://etherscan.io/address/0x12fe6025acb2f2e42a5852b8495a6f70daa47443). That's how to know they're real. I can send a story token to your Ethereum wallet address. At the moment, the only criteria for getting one is being interested. If you'd like to join in the experiment, [let me know](https://twitter.com/5h4d0wd06). I can help you get set up with an Ethereum wallet and send you a story token.

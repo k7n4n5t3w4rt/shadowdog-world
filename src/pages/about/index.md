@@ -16,4 +16,4 @@ I'll be making each frame of each story into an NFT. I'm calling them “[story 
 
 I have some projects in mind. I plan to make each story into a little stand-alone website that you can buy as an NFT - kind of like an online zine . I'd like to make some single frame animated gifs, and also some longer animations and film clips. I'll make all of them into limited edition NFTs.
 
-Please feel free to get in touch and [let me know what you think](https://discord.gg/EzDTZUQq8T).
+Please feel free to get in touch and [let me know what you think](https://twitter.com/5h4d0wd06).
