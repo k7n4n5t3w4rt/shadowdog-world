@@ -31,7 +31,7 @@ export default function Home() {
     return (
         <Layout
             title={`${siteConfig.title}`}
-            description="Web3 comic, art-thing, DAO and whatever you want it to be."
+            description="Web3 comic. Art thing. NFTs"
         >
             <HomepageHeader />
             <main>

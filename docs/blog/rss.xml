@@ -4,16 +4,9 @@
         <title>Shadowdog Blog</title>
         <link>https://shadowdog.world/blog</link>
         <description>Shadowdog Blog</description>
-        <lastBuildDate>Tue, 19 Apr 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[NFT Give-away]]></title>
-            <link>https://shadowdog.world/blog/nft-give-away</link>
-            <guid>nft-give-away</guid>
-            <pubDate>Tue, 19 Apr 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Story tokens for the whole first story - Shadowdog and the Dancing Robot - are available for anyone who follows https://www.instagram.com/5h4d0wd06/. The way it works is that I just send one of these story tokens to your Ethereum wallet address. If you already have wallet, that’s super simple. If you don’t, I can easily help you to set one up. It takes a few minutes and you don’t need anything special - it’s just a browser extension.]]></description>
-        </item>
         <item>
             <title><![CDATA[New Story: The Shadow]]></title>
             <link>https://shadowdog.world/blog/new-story-the-shadow</link>
@@ -26,7 +19,7 @@
             <link>https://shadowdog.world/blog/first-story-tokens-minted</link>
             <guid>first-story-tokens-minted</guid>
             <pubDate>Wed, 13 Apr 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Woohoo! The first story tokens have been minted. You can view them on Opensea.]]></description>
+            <description><![CDATA[The first story tokens have been minted.]]></description>
         </item>
     </channel>
 </rss>

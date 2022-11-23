@@ -2,22 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shadowdog.world/blog</id>
     <title>Shadowdog Blog</title>
-    <updated>2022-04-19T00:00:00.000Z</updated>
+    <updated>2022-04-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shadowdog.world/blog"/>
     <subtitle>Shadowdog Blog</subtitle>
     <icon>https://shadowdog.world/img/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[NFT Give-away]]></title>
-        <id>nft-give-away</id>
-        <link href="https://shadowdog.world/blog/nft-give-away"/>
-        <updated>2022-04-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Story tokens for the whole first story - Shadowdog and the Dancing Robot - are available for anyone who follows https://www.instagram.com/5h4d0wd06/. The way it works is that I just send one of these story tokens to your Ethereum wallet address. If you already have wallet, that’s super simple. If you don’t, I can easily help you to set one up. It takes a few minutes and you don’t need anything special - it’s just a browser extension.]]></summary>
-        <author>
-            <name>Kynan</name>
-            <uri>https:/brokenbaysoftware.co/</uri>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[New Story: The Shadow]]></title>
         <id>new-story-the-shadow</id>
@@ -34,7 +23,7 @@
         <id>first-story-tokens-minted</id>
         <link href="https://shadowdog.world/blog/first-story-tokens-minted"/>
         <updated>2022-04-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Woohoo! The first story tokens have been minted. You can view them on Opensea.]]></summary>
+        <summary type="html"><![CDATA[The first story tokens have been minted.]]></summary>
         <author>
             <name>Kynan</name>
             <uri>https:/brokenbaysoftware.co/</uri>

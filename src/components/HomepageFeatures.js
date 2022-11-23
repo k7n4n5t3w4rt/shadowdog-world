@@ -22,7 +22,7 @@ export default function HomepageFeatures() {
                             <p>
                                 Shadowdog is on the run. He has a new toy - a
                                 wonderful dancing robot. But is everything as it
-                                seems? His friend seems to know something
+                                seems? Oysterboy seems to know something
                                 Shadowdog doesn't...
                             </p>
                         </div>
@@ -42,25 +42,26 @@ export default function HomepageFeatures() {
                             <p>
                                 This is a story from before Shadowdog and
                                 Oysterboy met. Oysterboy comes home one day to
-                                find a strange dog in the hallway and a very
-                                nasty surprise in his apartment. An univited
-                                visitor has left a mess.
+                                find a visitor has left a nasty surprise in his
+                                apartment.
                             </p>
                         </div>
                     </div>
                     <div className={clsx("col col--4")}>
                         <div className="text--center">
-                            <img
-                                className={styles.featureImage}
-                                alt="Shadow"
-                                src="/img/sd-shadow-rough.png"
-                            />
+                            <a href="/stories/the-shadow/">
+                                <img
+                                    className={styles.featureImage}
+                                    alt="Shadow"
+                                    src="/img/sd-shadow.png"
+                                />
+                            </a>
                         </div>
                         <div className="text--center padding-horiz--md">
                             <h3>#3 The Shadow</h3>
                             <p>
                                 Shadowdog wakes up early one morning and soon
-                                gets an idea. What could possibly go wrong?
+                                gets an idea.
                             </p>
                         </div>
                     </div>

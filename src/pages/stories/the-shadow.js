@@ -161,6 +161,74 @@ const shotList = [
     },
     {
         title: "",
-        image: "to-be-continued",
+        image: "031",
+    },
+    {
+        title: "",
+        image: "032",
+    },
+    {
+        title: "",
+        image: "033",
+    },
+    {
+        title: "",
+        image: "034",
+    },
+    {
+        title: "",
+        image: "035",
+    },
+    {
+        title: "",
+        image: "036",
+    },
+    {
+        title: "",
+        image: "037",
+    },
+    {
+        title: "",
+        image: "038",
+    },
+    {
+        title: "",
+        image: "039",
+    },
+    {
+        title: "",
+        image: "040",
+    },
+    {
+        title: "",
+        image: "041",
+    },
+    {
+        title: "",
+        image: "042",
+    },
+    {
+        title: "",
+        image: "043",
+    },
+    {
+        title: "",
+        image: "044",
+    },
+    {
+        title: "",
+        image: "045",
+    },
+    {
+        title: "",
+        image: "046",
+    },
+    {
+        title: "",
+        image: "047",
+    },
+    {
+        title: "",
+        image: "048",
     },
 ];

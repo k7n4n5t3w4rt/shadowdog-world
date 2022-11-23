@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshadowdog_world=self.webpackChunkshadowdog_world||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"New Story: The Shadow","permalink":"/blog/new-story-the-shadow"},{"title":"First Story Tokens Minted","permalink":"/blog/first-story-tokens-minted"}]}')}}]);
