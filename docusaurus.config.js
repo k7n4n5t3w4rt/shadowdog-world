@@ -129,7 +129,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                                 },
                                 {
                                     label: "Instagram",
-                                    href: "https://www.instagram.com/5h4d0wd06/",
+                                    href: "https://www.instagram.com/shadowdog.world/",
                                 },
                             ],
                         },
