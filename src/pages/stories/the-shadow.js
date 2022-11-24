@@ -141,7 +141,7 @@ const shotList = [
     },
     {
         title: "",
-        image: "026",
+        image: "026a",
     },
     {
         title: "",
